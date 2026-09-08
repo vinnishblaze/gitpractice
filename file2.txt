@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+this is new update
+=======
 This is file 2b
+>>>>>>> acec6cfb5cb1878010a6715ef127b440e68d56f8
